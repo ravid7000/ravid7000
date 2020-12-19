@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ravid7000@gmail.com**
 
-- 📄 Know about my experiences [https://ravid.dev/static/resume/ravi-dhiman.pdf](https://ravid.dev/static/resume/ravi-dhiman.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
